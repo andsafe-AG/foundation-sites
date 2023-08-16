@@ -1,6 +1,6 @@
 {
   "name": "@andsafe/foundation-sites",
-  "version": "6.7.5",
+  "version": "6.7.5-custom",
   "main": "dist/js/foundation.js",
   "module": "dist/js/foundation.esm.js",
   "jsnext:main": "dist/js/foundation.esm.js",
